@@ -30,6 +30,7 @@ QICCR is a classical framework that emulates quantum-like parallelism via tensor
 - `qiccr_references.bib` - Bibliography
 - `generate_figures.py` - Figure generation script
 - `*.png` - Generated figures
+- `QICCR_Paper (1).pdf` - Full research paper (PDF)
 
 ### Requirements
 
